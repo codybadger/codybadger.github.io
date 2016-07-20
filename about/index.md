@@ -19,5 +19,5 @@ I'm 33, have 2 sisters, and pretty big extended family. On personal level, I val
 
 I've got an old [travel blog](http://codybadgertravel.blogspot.com/) that I haven't updated in years. Maybe one day, I'll port it over to this site. Here is a gallery of some photos I've taken.
 
-<center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/codybadger/albums/72157622818168699" title="Photography"><img src="https://c2.staticflickr.com/3/2553/4163636409_09ffa7c739_b.jpg" width="1024" height="685" alt="Photography"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
+<style>.embed-container { position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden; max-width: 100%; height: auto; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.flickr.com/photos/codybadger/albums/72157622818168699/player/' frameborder='0' allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe></div>
 
