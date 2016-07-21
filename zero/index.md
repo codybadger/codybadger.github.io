@@ -11,7 +11,7 @@ title: Zero Motorcycles Cover Letter
 
 Greetings,
 
-In 2011, I worked at Zero Motorcycles as a Production Technician and as a Mechanical Engineering Intern under Derek Yuen. I saw the postings for the Mechanical Engineers (III and IV) and Test Engineer that are open, and I wanted to apply.
+In 2011, I worked at Zero Motorcycles as a Production Technician and as a Mechanical Engineering Intern under Derek Yuen. I saw the postings for the [Mechanical Engineers (III and IV) and Test Engineer](http://www.zeromotorcycles.com/company/employment.php) that are open, and I wanted to apply.
 
 I'm a Mechanical Engineer with experience in test and design, and a significant part of that was in the automotive industry. I graduated with a Bachelors and a Masters in Mechanical Engineering from UCLA. Since leaving Zero, I've obtained a lot of other skills; working on heavy equipment, electric cars, biotech robotics, and craft beer robotics.
 
