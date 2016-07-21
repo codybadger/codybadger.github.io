@@ -114,6 +114,7 @@ title: My CV
 
 * Fluent in Spanish after living in Spain, Argentina, El Salvador, & Perú, for 3 years.
 * Conversational in Portuguese.
+* Seven years of brewing experience.
 * Teaching experience: Lab instructor in grad school, 8th grade pre-algebra summer session for, photography teacher.
 * Played 4 years of collegiate level Ultimate Frisbee for the UCLA Men’s team and passionate about other sports.
 * Involved in many volunteer projects both at home and abroad: Engineers Without Borders, Habitat for Humanity, Fairmail, Salvation Army, etc.
