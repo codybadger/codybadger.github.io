@@ -107,7 +107,7 @@ title: My CV
 * **Test Equipment**: Somat eDAQ & eDAQ Lite, Head Acoustics Squadriga & DataRec4, VBOX, Memorator
 * **CAD**: Solidworks 2004, 2010, 2015, & 2016, AutoCAD, Rhinoceros, SketchUp, Adobe Illustrator
 * **Programming**: MATLAB, Fortran 90, C, Ruby, Python, HTML, Markdown, Git
-* **Project Management**: Trello
+* **Project Management**: Trello, 
 * **Fabricating**: Advanced skills in wood, metal, and automotive shops. Projects include: furniture, houses, motors, and bicycles.
 * **Heavy machinery experience**: Loader-backhoe, skid steer, bulldozer, wheel loader, excavator
 * CA Class C & M1 drivers license
