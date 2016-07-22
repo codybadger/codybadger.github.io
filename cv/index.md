@@ -3,11 +3,9 @@ layout: default
 title: My CV
 ---
 
-<a href="/cv/codycardbadgerCV.pdf" target="_blank">Download</a>
-
 <center><h1 class="header">Cody C. Badger</h1></center>
 <center><h5>(415) 409 - 9362   •   48 Cumberland St. San Francisco, CA 94110</h5></center>
-<center><h5>cbadger@ucla.edu   •   <a href="codycardbadger.com">codycardbadger.com</a></h5></center>
+<center><h5>c@codycardbadger.com   •   <a href="codycardbadger.com">codycardbadger.com</a></h5></center>
 
 ---
 
@@ -106,8 +104,8 @@ title: My CV
 
 * **Test Equipment**: Somat eDAQ & eDAQ Lite, Head Acoustics Squadriga & DataRec4, VBOX, Memorator
 * **CAD**: Solidworks 2004, 2010, 2015, & 2016, AutoCAD, Rhinoceros, SketchUp, Adobe Illustrator
-* **Programming**: MATLAB, Fortran 90, C, Ruby, Python, HTML, Markdown, Git
-* **Project Management**: Trello, 
+* **Programming**: MATLAB, Fortran 90, C, Ruby, Python, HTML, Markdown
+* **Project Management**: Trello, Github
 * **Fabricating**: Advanced skills in wood, metal, and automotive shops. Projects include: furniture, houses, motors, and bicycles.
 * **Heavy machinery experience**: Loader-backhoe, skid steer, bulldozer, wheel loader, excavator
 * CA Class C & M1 drivers license
