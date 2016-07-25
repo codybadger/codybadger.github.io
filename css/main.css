@@ -11,6 +11,18 @@
     justify-content: center;
 }
 
+#face-img {
+    -webkit-transition-property: -webkit-transform;
+    -moz-transition-property: -moz-transform;
+    -o-transition-property: -o-transform;
+    transition-property: transform;
+
+    -webkit-transition-duration: 1.6s;
+    -moz-transition-duration: 1.6s;
+    -o-transition-duration: 1.6s;
+    transition-duration: 1.6s;
+}
+
 body {
     margin: 60px auto;
     width: 50%;
