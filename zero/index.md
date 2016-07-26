@@ -13,7 +13,7 @@ Greetings,
 
 In 2011, I worked at Zero Motorcycles as a Production Technician and as a Mechanical Engineering Intern under Derek Yuen. I saw the postings for the [Mechanical Engineers (III and V) and Test Engineer](http://www.zeromotorcycles.com/company/employment.php) that are open, and I wanted to apply.
 
-I'm a Mechanical Engineer with experience in test and design, and a significant part of that was in the automotive industry. I graduated with a Bachelors and a Masters in Mechanical Engineering from UCLA. Since leaving Zero, I've obtained a lot of other skills; working on heavy equipment, electric cars, biotech robotics, and craft beer robotics.
+I graduated with a Bachelors and a Masters in Mechanical Engineering from UCLA. Most of my relevant experience in test and design, and a significant part of that was in the automotive industry. Zero was my first engineering job, and since then, I've obtained a lot of other skills; working on heavy equipment, electric cars, biotech robotics, and craft beer robotics.
 
 Currently, I'm the Lead Hardware Engineer at the Northern Irish startup, [Brewbot](www.brewbot.io). Our goal is to develop a *distributed brewery*; a network of small breweries that brew keg-sized batches that would replace distributing the beer itself. We've developed a the hardware and software to automate the beer brewing process via a smartphone app. It's really fun. The "internet-of-things" turn that my career has taken has been interesting, but I'd eventually like to get back into the EV sector.
 
