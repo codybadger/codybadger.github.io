@@ -9,6 +9,21 @@ title: My CV
 
 ---
 
+# Summary
+
+Hardware is the name of my game. I like to design it, test it, build it, and use it. I'm a mechanical engineer with a lot of startup experience. I work hard. I don't like writing resume summaries.
+
+# Technical and Applied Skills
+
+* **Test Equipment**: Somat eDAQ & eDAQ Lite, Head Acoustics Squadriga & DataRec4, VBOX, Memorator
+* **CAD**: Solidworks 2004, 2010, 2015, & 2016, AutoCAD, Rhinoceros, SketchUp, Adobe Illustrator
+* **Programming**: MATLAB, Fortran 90, C, Ruby, Python, HTML, Markdown
+* **Project Management**: Trello, Github
+* **Fabricating**: Advanced skills in wood, metal, and automotive shops. Projects include: furniture, houses, motors, and bicycles.
+* **Heavy machinery experience**: Loader-backhoe, skid steer, bulldozer, wheel loader, excavator
+* CA Class C & M1 drivers license
+* Previously held CDL Class B -P for driving a passenger bus.
+
 # Development
 
 ## Lead Hardware Engineer @ [Brewbot](http://www.brewbot.io)
@@ -99,17 +114,6 @@ title: My CV
 ### UCLA, 2006
 
 * Engineering GPA: 3.53
-
-# Technical and Applied Skills
-
-* **Test Equipment**: Somat eDAQ & eDAQ Lite, Head Acoustics Squadriga & DataRec4, VBOX, Memorator
-* **CAD**: Solidworks 2004, 2010, 2015, & 2016, AutoCAD, Rhinoceros, SketchUp, Adobe Illustrator
-* **Programming**: MATLAB, Fortran 90, C, Ruby, Python, HTML, Markdown
-* **Project Management**: Trello, Github
-* **Fabricating**: Advanced skills in wood, metal, and automotive shops. Projects include: furniture, houses, motors, and bicycles.
-* **Heavy machinery experience**: Loader-backhoe, skid steer, bulldozer, wheel loader, excavator
-* CA Class C & M1 drivers license
-* Previously held CDL Class B -P for driving a passenger bus.
 
 # Personal Interests
 
