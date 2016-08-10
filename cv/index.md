@@ -17,7 +17,7 @@ title: My CV
 
 #### Supervisor: *[Sam Khamis](https://www.linkedin.com/in/samuel-khamis-3096688), CTO*
 
-* We've developed the hardware and software to run a fully automated and highly repeatable brew from a smartphone, giving way for the world's first distributed brewery.
+* We've developed the hardware and software to run a fully automated and highly repeatable brew from a smartphone, giving way for the world's first distributed brewery. I helped bring the product to production from an idea. 
 * Oversee mechanical and electronic research, development, and design. I ensure that milestones are set and met, and that issues are resolved in a timely manner.
 * Ensure hardware sensors interface properly with the electronic and software requirements.
 * Manage information and documentation repository.
