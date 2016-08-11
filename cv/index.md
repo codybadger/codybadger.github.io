@@ -9,9 +9,7 @@ title: My CV
 
 ---
 
-# Summary
-
-Hardware is the name of my game. I like to design it, test it, build it, and use it. I'm a mechanical engineer with a lot of startup experience. I work hard. I don't like writing resume summaries.
+<center><p><i>Hardware is my favorite. I like to design it, test it, build it, and control it. I'm a mechanical engineer with a lot of startup experience. I work hard.</i></p></center>
 
 # Technical and Applied Skills
 
