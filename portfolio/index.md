@@ -18,13 +18,13 @@ Over the years, I've worked at a number of different places; from a doer of ever
     <img src="/images/logo_ucla.png" alt="UCLA" style="height: 50px; Padding-left: 15px; padding-right: 15px; PADDING-TOP: 2px; PADDING-BOTTOM: 2px;">
 </div>
 
-You'll notice that none of these companies are web design firms. You'll also notice that this website wasn't made by a professional web developer; it was made by me. I hope you like my black and white color scheme, laid back tone, and centered stock photos.
+You'll notice that these companies are not web design firms. You'll also notice that this website wasn't made by a professional web developer; it was made by me. I hope you like my black and white color scheme, laid back tone, and centered stock photos.
 
 In 2015, I moved to Belfast, Northern Ireland, to work for [Brewbot](www.brewbot.io). I worked hard to get this smart-phone controlled beer brewing machine up and running. On the hardware side of things, we went from having just an idea to completing version 1.0 through production in under a year. With my time at Brewbot, I've experienced a lot of *startup-ey* things: seemingly impossible deadlines, the excitement of getting to the office everyday, investments falling through, personnel changes, completing our first production unit the highs and lows of remote offices, and the list goes on. We make a robot that has made a lot of delicious beer.
 
 <div align="center">
     <img src="/images/V1.1 Brewbot - Front Panel Removed.JPG" alt="CAD Brewbot" style="width:300px; Padding-left: 15px; padding-right: 15px; PADDING-TOP: 5px; PADDING-BOTTOM: 5px;">
-    <img src="/images/portfolio_brewbot.png" alt="Real Brewbot" style="width:300px; Padding-left: 15px; padding-right: 15px; PADDING-TOP: 5px; PADDING-BOTTOM: 5px;">
+    <img src="/images/portfolio_brewbot.jpg" alt="Real Brewbot" style="width:300px; Padding-left: 15px; padding-right: 15px; PADDING-TOP: 5px; PADDING-BOTTOM: 5px;">
 </div>
 
 With the Vehicle Test team at Tesla Motors, and ran a number of tests on the Model S Beta and Release Candidate units. I mainly ran full lifetime durability tests on the beta and RC machines. Alongside my drivers and technicians, we discovered and addressed many potential issues that could arise during ownership of a Model S during these eight month long tests. I spent many late nights doing laps around the racetrack until my stomach couldn't handle it anymore, in order to meet company deadlines. My 480-page test report set the department (and possibly company) record for longest report; however, I like to think of it as the *most thorough* report.

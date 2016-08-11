@@ -65,7 +65,11 @@ I thought these shelves would be pretty nice to refinish. After taking about 10 
 
 <center><img id="woodworking" src="/images/woodwork_shelf.jpg" alt="shelf" style="width:400px; PADDING-TOP: 2px; PADDING-BOTTOM: 2px;"></center>
 
-I have more projects that I'd like to add in the future; a drawing table and a kegerator top.
+## Table
+
+I don't have the before picture, but this table was left outside for over a year. It had about 100 circles stained into it from water damage. Using a hand planer, I was able to remove the entire damaged layer and revitalize the solid maple table.
+
+<center><img id="woodworking" src="/images/woodwork_table.jpg" alt="table" style="width:400px; PADDING-TOP: 2px; PADDING-BOTTOM: 2px;"></center>
 
 # Shopsmith Restoration
 
