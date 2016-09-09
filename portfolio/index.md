@@ -27,6 +27,12 @@ In 2015, I moved to Belfast, Northern Ireland, to work for [Brewbot](www.brewbot
     <img src="/images/portfolio_brewbot.jpg" alt="Real Brewbot" style="width:300px; Padding-left: 15px; padding-right: 15px; PADDING-TOP: 5px; PADDING-BOTTOM: 5px;">
 </div>
 
+Before Brewbot, I worked at Modular Science on a biotech laboratory benchtop assistant. It was a low-cost, modular solution for a tool that's generally too expensive for a startup to afford. We employed a different style of design life at Modular Science; we used 2D CAD and our design iterations were generally made on the physical model, rather than in software. Meaning, we'd make design changes to the parts, send them out for laser cutting, get them next day, assemble the new prototype, and review the physical model for design changes. This could all be done in less than a week.
+
+<div align="center">
+    <img src="/images/modular_science.jpg" alt="The Machine" style="width:450px; Padding-left: 15px; padding-right: 15px; PADDING-TOP: 5px; PADDING-BOTTOM: 5px;">
+</div>
+
 With the Vehicle Test team at Tesla Motors, and ran a number of tests on the Model S Beta and Release Candidate units. I mainly ran full lifetime durability tests on the beta and RC machines. Alongside my drivers and technicians, we discovered and addressed many potential issues that could arise during ownership of a Model S during these eight month long tests. I spent many late nights doing laps around the racetrack until my stomach couldn't handle it anymore, in order to meet company deadlines. My 480-page test report set the department (and possibly company) record for longest report; however, I like to think of it as the *most thorough* report.
 
 We combined recorded vehicle data with observed flaws to paint an appropriate picture of a vehicle issue. These issues were then studied by our team, alongside the design and manufacturing teams, to determine the root cause and the best course of action to resolve the issue.
@@ -37,7 +43,7 @@ We combined recorded vehicle data with observed flaws to paint an appropriate pi
 
 As a stress test engineer at CNH (Case New Holland), I traveled the globe performing structural stress tests on heavy construction equipment. I measured the stress caused by impacts and vibrations and estimated time until failure on many different parts and components within these machines. I worked closely with the Noise, Vibration, and Harshness team, and eventually was hired as an NVH engineer toward the end of my time at CNH.
 
-The stress testing mostly revolved around measuring strain of structural members under various load cases, and performing structural analyses of the results. I also worked on vibrational tests on electronic components by measuring various components acceleration during different load cases and comparing these with their specification. Sometimes these load cases would be normal driving on dirt or pavement, and sometimes it would be dropping a tractor off of a 3 foot wall.
+The stress testing mostly revolved around measuring strain of structural members under various load cases, and performing structural analyses of the results. I also worked on vibrational tests on electronic components by measuring various components acceleration during different load cases and comparing these with their specification. Sometimes these load cases would be normal driving on dirt or pavement, and sometimes it would be as harsh as dropping a 32 ton tractor off of a four foot wall.
 
 <div align="center">
     <img src="/images/portfolio_case.png" alt="Case Construction Equipment" style="width:400px; Padding-left: 15px; padding-right: 15px; PADDING-TOP: 5px; PADDING-BOTTOM: 5px;">
