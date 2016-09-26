@@ -9,7 +9,7 @@ title: My CV
 
 ---
 
-<center><p><i>Hardware is my favorite. I like to design it, test it, build it, and control it. I'm a mechanical engineer with a lot of startup experience. I work hard.</i></p></center>
+<center><p><i>Hardware is my favorite. I like to design it, test it, build it, fix it, and control it. I'm a hard working mechanical engineer with a lot of startup experience.</i></p></center>
 
 # Technical and Applied Skills
 
