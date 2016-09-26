@@ -61,7 +61,7 @@ This is a funky tall table I made one day with a bunch of material i had lying a
 
 ## Shelves
 
-I thought these shelves would be pretty nice to refinish. After taking about 10 coats of paint off of them, I found that the bare wood was too damaged to keep bare, so I repainted the shelves and got new glass. There are two of these,
+I thought these shelves would be pretty nice to refinish. After taking about 10 coats of paint off of them, I found that the bare wood was too damaged to keep bare, so I repainted the shelves and got new glass. There are two of these.
 
 <center><img id="woodworking" src="/images/woodwork_shelf.jpg" alt="shelf" style="width:400px; PADDING-TOP: 2px; PADDING-BOTTOM: 2px;"></center>
 

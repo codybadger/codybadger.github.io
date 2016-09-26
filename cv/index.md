@@ -15,7 +15,7 @@ title: My CV
 
 * **Data Acquisition**: Somat eDAQ & eDAQ Lite, Head Acoustics Squadriga & DataRec4, VBOX, Memorator
 * **Test Sensors/Tools**: Strain gauge, accelerometer, thermocouple, thermistor, GPS, RPM sensor, photo sensor, pressure transducer, load cell, oscilloscope, DMM.
-* **CAD**: Solidworks 2004, 2010, 2015, & 2016, AutoCAD, Rhinoceros, SketchUp, Adobe Illustrator
+* **CAD**: Solidworks 2004, 2010, 2015, & 2016, AutoCAD, Rhino, SketchUp, Adobe Illustrator
 * **Programming**: MATLAB, Fortran 90, C, Ruby, Python, HTML, Markdown
 * **Project Management**: Trello, Github
 * **Fabricating**: Advanced skills in wood, metal, and automotive shops. Projects include: furniture, houses, motors, and bicycles.
@@ -30,11 +30,11 @@ title: My CV
 
 #### Supervisor: *[Sam Khamis](https://www.linkedin.com/in/samuel-khamis-3096688), CTO*
 
-* We've developed the hardware and software to run a fully automated and highly repeatable brew from a smartphone, giving way for the world's first distributed brewery. I helped bring the product to production from an idea. 
-* Oversee mechanical and electronic research, development, and design. I ensure that milestones are set and met, and that issues are resolved in a timely manner.
-* Ensure hardware sensors interface properly with the electronic and software requirements.
-* Manage information and documentation repository.
-* Train employees in the craft of brewing, and manage all test brew data and analysis.
+* My team developed the hardware to run a fully automated and highly repeatable brew from a smartphone, giving way for the world's first distributed brewery. I helped take Brewbot from concept to production. 
+* I oversaw mechanical and electronic research, development, and design. I ensured that milestones are set and met, and that issues are resolved in a timely manner.
+* As the lead hardware engineer, I made sure hardware sensors interfaced properly with the electronic and software requirements.
+* Managed CAD and documentation repositories.
+* Trained employees in the craft of brewing, and managed all test brew data and analysis.
 
 ## Mechanical Engineer @ [Modular Science](http://www.modularscience.com)
 
@@ -43,7 +43,7 @@ title: My CV
 #### Supervisor: *[Peter Sand](https://www.linkedin.com/in/petersand), Founder*
 
 * Modular Science is an early stage start-up developing hardware and software for bio-lab procedure automation, focusing on modular, hackable, well-documented systems so that modifications can be made for custom experiments.
-* Primarily focused on hardware design, assembly, and testing of the main body of the system, as well as basic robotic modules to perform pipette, centrifuge, vial movement, vial grasping, incubator and other various lab operations.
+* I primarily focused on hardware design, assembly, and testing of the main body of the system, as well as the robotic modules to perform pipette, centrifuge, vial movement and grasping, incubator and other various lab operations.
 
 ## Vehicle Reliability Test Engineer @ [Tesla Motors](http://www.teslamotors.com)
 
@@ -51,7 +51,7 @@ title: My CV
 
 #### Supervisor: *[John Spruill](https://www.linkedin.com/in/john-spruill-6a620511), Manager, Vehicle Test*
 
-* Managed two different pre-production endurance durability Model S test vehicles.
+* I Managed two different pre-production endurance durability Model S test vehicles.
 * The test covered all aspects of the vehicle: drivetrain, components, structure, body, interior, etc.
 * Vehicle was tested 24 hours per day, for 6-8 months. Immediate action was required when problems arose.
 * Loading from road input, drivetrain cycling, & environmental cycling were balanced to simulate full life.
@@ -94,7 +94,7 @@ title: My CV
 ### Los Angeles, 2004 – 2006
 
 * Founding member of an SAE sponsored intercollegiate competition focused on optimal fuel efficiency of a gas powered vehicle.
-* Leader of design & manufacture of the chassis, driver seat, and suspension system, our team achieved 824 mpg..
+* Leader of design & manufacture of the chassis, driver seat, and suspension system, our team achieved 824 mpg.
 
 # Education
 
@@ -117,7 +117,7 @@ title: My CV
 * Fluent in Spanish after living in Spain, Argentina, El Salvador, & Perú, for 3 years.
 * Conversational in Portuguese.
 * Seven years of brewing experience.
-* Teaching experience: Lab instructor in grad school, 8th grade pre-algebra summer session for, photography teacher.
+* Teaching experience: Lab instructor in grad school, 8th grade pre-algebra summer session, photography teacher.
 * Played 4 years of collegiate level Ultimate Frisbee for the UCLA Men’s team and passionate about other sports.
 * Involved in many volunteer projects both at home and abroad: Engineers Without Borders, Habitat for Humanity, Fairmail, Salvation Army, etc.
 * Avid outdoorsman, fisherman, & backpacker; hiked solo 230 miles in the Sierra Nevada in 18 days.
