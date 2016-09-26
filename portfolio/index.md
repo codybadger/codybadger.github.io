@@ -23,7 +23,7 @@ You'll notice that these companies are not web design firms. You'll also notice 
 In 2015, I moved to Belfast, Northern Ireland, to work for [Brewbot](www.brewbot.io). I worked hard to get this smart-phone controlled beer brewing machine up and running. On the hardware side of things, we went from having just an idea to completing version 1.0 through production in under a year. With my time at Brewbot, I've experienced a lot of *startup-ey* things: seemingly impossible deadlines, the excitement of getting to the office everyday, investments falling through, personnel changes, completing our first production unit the highs and lows of remote offices, and the list goes on. We make a robot that has made a lot of delicious beer.
 
 <div align="center">
-    <img src="/images/v1.1-brewbot-front-panel-removed.jpg" alt="CAD Brewbot" style="width:300px; Padding-left: 15px; padding-right: 15px; PADDING-TOP: 5px; PADDING-BOTTOM: 5px;">
+    <img src="/images/portfolio_brewbot_cad.jpg" alt="CAD Brewbot" style="width:300px; Padding-left: 15px; padding-right: 15px; PADDING-TOP: 5px; PADDING-BOTTOM: 5px;">
     <img src="/images/portfolio_brewbot.jpg" alt="Real Brewbot" style="width:300px; Padding-left: 15px; padding-right: 15px; PADDING-TOP: 5px; PADDING-BOTTOM: 5px;">
 </div>
 
