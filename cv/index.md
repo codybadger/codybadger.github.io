@@ -15,18 +15,29 @@ title: My CV
 
 * **Data Acquisition**: Somat eDAQ & eDAQ Lite, Head Acoustics Squadriga & DataRec4, VBOX, Memorator
 * **Test Sensors/Tools**: Strain gauge, accelerometer, thermocouple, thermistor, GPS, RPM sensor, photo sensor, pressure transducer, load cell, oscilloscope, DMM.
-* **CAD**: Solidworks 2004, 2010, 2015, & 2016, AutoCAD, Rhino, SketchUp, Adobe Illustrator
+* **CAD**: Solidworks 2004, 2010, 2015-2017, AutoCAD, Rhino, SketchUp, Adobe Illustrator, CorelDraw, & machine specific programs.
 * **Programming**: MATLAB, Fortran 90, C, Ruby, Python, HTML, Markdown
 * **Project Management**: Trello, Github
-* **Fabricating**: Advanced skills in wood, metal, and automotive shops. Projects include: furniture, houses, motors, and bicycles.
+* **Fabricating**: Advanced skills in wood, metal, and automotive shops. Experience with CNC cutters and mills, hand mills, welding, lathe, vacuum forming, injection molding, 3D printing, laser cutting, etc.
 * **Heavy machinery experience**: Loader-backhoe, skid steer, bulldozer, wheel loader, excavator
 * CA Class C & M1 drivers license. Previously held CDL Class B -P for driving a passenger bus.
 
 # Development
 
+## Head of Mechanics @ [Industrial Optic](www.industrialoptic.io)
+
+### San Francisco, CA, November 2016 - Present
+
+#### Supervisor: *[Adam Tank](https://www.linkedin.com/in/adamtank/), CEO & Founder*
+
+* I was the first hire (founding team) at Industrial Optic, a [Lemnos Labs](www.lemnos.vc) company.
+* We aim to develop a drone that will perform in-situ repair of leaking municipal drinking water pipe systems.
+* I helped lead the initial technical assessment of the market and product.
+* I conceptualized, designed, and fabricated the first working prototype.
+
 ## Lead Hardware Engineer @ [Brewbot](http://www.brewbot.io)
 
-### Belfast, Northern Ireland, June 2015 - Present
+### Belfast, Northern Ireland, June 2015 - October 2016
 
 #### Supervisor: *[Sam Khamis](https://www.linkedin.com/in/samuel-khamis-3096688), CTO*
 
@@ -116,7 +127,7 @@ title: My CV
 
 * Fluent in Spanish after living in Spain, Argentina, El Salvador, & Perú, for 3 years.
 * Conversational in Portuguese.
-* Seven years of brewing experience.
+* Eight years of brewing experience; I've brewed for weddings, events, and local bars.
 * Teaching experience: Lab instructor in grad school, 8th grade pre-algebra summer session, photography teacher.
 * Played 4 years of collegiate level Ultimate Frisbee for the UCLA Men’s team and passionate about other sports.
 * Involved in many volunteer projects both at home and abroad: Engineers Without Borders, Habitat for Humanity, Fairmail, Salvation Army, etc.
