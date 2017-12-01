@@ -15,10 +15,10 @@ title: My CV
 
 * **Data Acquisition**: Somat eDAQ & eDAQ Lite, Head Acoustics Squadriga & DataRec4, VBOX, Memorator
 * **Test Sensors/Tools**: Strain gauge, accelerometer, thermocouple, thermistor, GPS, RPM sensor, photo sensor, pressure transducer, load cell, oscilloscope, DMM.
-* **CAD**: Solidworks 2004, 2010, 2015, & 2016, AutoCAD, Rhino, SketchUp, Adobe Illustrator
-* **Programming**: MATLAB, Fortran 90, C, Ruby, Python, HTML, Markdown
+* **CAD**: Solidworks 2004-2017, AutoCAD, Rhino, SketchUp, Adobe Illustrator
+* **Programming**: G-Code, MATLAB, Fortran 90, C, Ruby, Python, HTML, Markdown
 * **Project Management**: Trello, Github
-* **Fabricating**: Advanced skills in wood, metal, and automotive shops. Projects include: furniture, houses, motors, and bicycles.
+* **Fabricating**: Advanced skills in wood, metal, and automotive shops. Projects include: engineering prototype builds, furniture, houses, engines, and bicycles.
 * **Heavy machinery experience**: Loader-backhoe, skid steer, bulldozer, wheel loader, excavator
 * CA Class C & M1 drivers license. Previously held CDL Class B -P for driving a passenger bus.
 
