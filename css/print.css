@@ -63,6 +63,10 @@ h5 {
     margin-top: -20px;
 }
 
+h5.address {
+    display: block;
+}
+
 p {
     font-size: 1em;
     line-height: 1.2em;
