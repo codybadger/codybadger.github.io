@@ -15,9 +15,10 @@ title: Connect
 
         <li style="padding-top:10px; padding-bottom: 10px;"><a href="https://twitter.com/codybadger" class="twitter-follow-button" data-show-count="false">Follow @codybadger</a> <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script></li>
 
-        <li style="padding-top:10px; padding-bottom: 10px;"> <iframe src="http://githubbadge.appspot.com/codybadger?a=0" style="border: 0;height: 142px;width: 200px;overflow: hidden;" frameBorder="0"></iframe></li>
+        <div class="github-card" data-github="codybadger" data-width="400" data-height="" data-theme="default"></div>
+        <script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
 
-        <li style="padding-top:10px; padding-bottom: 10px;"><a href="http://www.flickr.com/photos/codybadger/" title="See my photos on Flickr!"><img src="https://s.yimg.com/pw/images/goodies/white-flickr.png" width="56" height="26" alt=""></a></li>
+        <li style="padding-top:10px; padding-bottom: 10px;"><a href="http://www.flickr.com/photos/codybadger/" target="_blank" title="See my photos on Flickr!"><img src="https://s.yimg.com/pw/images/goodies/white-flickr.png" width="56" height="26" alt=""></a></li>
 
         <li style="padding-top:10px; padding-bottom: 10px;"><iframe src="https://embed.spotify.com/follow/1/?uri=spotify:artist:1vCWHaC5f2uS3yhpwWbIA6&size=basic&theme=light&show-count=0" width="200" height="25" scrolling="no" frameborder="0" style="border:none; overflow:hidden; margin-left: 100px;" allowtransparency="true"></iframe></li>
 
