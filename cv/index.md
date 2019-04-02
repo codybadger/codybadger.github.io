@@ -13,23 +13,38 @@ title: My CV
 
 # Technical and Applied Skills
 
-* **CAD**: SolidWorks 2004-2017, AutoCAD, Rhino, SketchUp, Adobe Illustrator, CorelDraw, & fab machine specific programs.
-* **Programming**: G-Code, MATLAB, Fortran 90, C, Ruby, Python, HTML, Markdown
-* **Data Acquisition**: Somat eDAQ, Head Acoustics Squadriga & DataRec4, VBOX, Memorator
-* **Test Sensors/Tools**: Strain gauge, accelerometer, thermocouple, thermistor, GPS, RPM sensor, photo sensor, pressure transducer, load cell, oscilloscope, DMM.
+* **CAD**: SolidWorks 2004-2018, AutoCAD, Rhino, SketchUp, Adobe Illustrator, CorelDraw, & fab machine specific programs.
+* **Languages**: Python, C/C++, G-Code, MATLAB, Fortran 90, Ruby, HTML, Markdown.
+* **Data Acquisition**: Somat eDAQ, Head Acoustics Squadriga & DataRec4, VBOX, Memorator, LabJack, RasPi hacky loggers.
+* **Test Equipment**: Environmental (temperature, altitude, UV, vacuum) chambers, load frames (instron), torsion frames (instron), thermostream, 
+* **Test Sensors/Tools**: Strain gauge, accelerometer, thermocouple, thermistor, GPS, RPM sensor, photo sensor, pressure transducer, load cell, oscilloscope, DMM, VNA, encoders.
 * **Fabricating**: Extensive skills in wood, metal, and automotive shops. Experience with CNC cutters and mills, hand mills, welding, lathe, vacuum forming, injection molding, 3D printing, laser cutting.
 * **Heavy machinery experience**: Loader-backhoe, skid steer, bulldozer, wheel loader, excavator, Previously held CDL Class B -P for driving a passenger bus.
-* **Project Management**: Trello, Github
+* **Project Management**: Trello, Github, Buganizer
 
 # Development
 
+## Lead Reliability Test Engineer [Loon](www.loon.co) & [PFS](www.polarfield.com)
+
+### Mountain View, CA, August 2018 - Present
+
+#### Supervisor: *[Matt Rogge](link), Reliability Lead*
+
+Loon, a [Google X](https://x.company/) graduate, has developed the most essential components of a cell tower and redesigned them to be light and durable enough to be carried by a balloon 20 km up, on the edge of space. I lead the hardware reliability test lab team.
+
+* Manage all hardware related reliability tests for the company.
+* Personally setup, maintain, monitor, and analyze between 5 and 15 tests at any given time. Our team will own 25 - 50 live tests.
+* Keep entire test lab efficient and functional by owning tool/chamber maintenance and purchasing tools/supplies/equipment as needed.
+* Provide metrics and insights on test lab performance to upper management.
+* Ensure team's workload is properly distributed based on individual schedule and expertise.
+
 ## Founding Engineer [Industrial Optic](www.industrialoptic.io)
 
-### San Francisco, CA, November 2016 - Present
+### San Francisco, CA, November 2016 - March 2018
 
 #### Supervisor: *[Adam Tank](https://www.linkedin.com/in/adamtank/), CEO & Founder*
 
-Industrial Optic, a [Lemnos Labs](www.lemnos.vc) portfolio company, developing drones and in-situ repair solutions of municipal drinking water pipe systems.
+Industrial Optic, a [Lemnos Labs](www.lemnos.vc) portfolio company, developed drones and in-situ repair solutions of live municipal drinking water pipe systems.
 
 * Lead the technical assessment of the market opportunities and product demand.
 * Conceptualized, designed, and fabricated the first 3 working prototypes.

@@ -7,6 +7,12 @@ title: Projects
 
 Here are some projects that I've worked on over the years and want to share. I'll be adding content periodically, but feel free to ask me about any of them if you have any questions.
 
+# 1977 Schwinn Super Le Tour 12.2
+
+# 1928 Coleman Slant Lantern (228F)
+
+# Home Brewery
+
 # 1971 Chevrolet K10 350 Motor Rebuild
 
 I've blown up my motor twice now. In high school, a push rod snapped, and then in 2011 a main bearing spun. I bought this truck for $700 from my grandfather when I was 18. I did some body work on it, and this is what it looked like during that time. A few months after this photo was taken, the aforementioned rod snapped, and a mechanic friend helped me rebuild the motor.

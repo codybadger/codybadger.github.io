@@ -5,7 +5,7 @@ title: Connect
 
 <div align="center">
     <ul style="list-style: none; margin-left: -30px;">
-        <li style="padding-top:10px; padding-bottom: 10px;"><a href="mailto:c@codycardbadger.com"><img src="http://www.aimamusic.it/wp-content/uploads/2012/10/email_us_button.png" alt="E-mail" style="width:200px;" /></a></li>
+        <li style="padding-top:10px; padding-bottom: 10px;"><a href="mailto:c@codycardbadger.com"><img src="/images/e-mail_us.jpeg" alt="E-mail" style="width:200px;" /></a></li>
 
         <li style="padding-top:10px; padding-bottom: 10px;"><a href="https://www.linkedin.com/pub/cody-badger/4/158/11b"><img src="https://static.licdn.com/scds/common/u/img/webpromo/btn_profile_bluetxt_80x15.png" width="80" height="15" border="0" alt="View Cody Badger's profile on LinkedIn"></a></li>
 
