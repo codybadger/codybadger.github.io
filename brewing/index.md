@@ -7,6 +7,10 @@ title: Brewing
 
 <a href="/brewing/YosemiteFallsDoubleNutBrown.htm" target="_blank">Here</a> is my favorite recipe to brew at the moment. I've brewed about 75 batches of beer at home since I started. I've also brewed many batches with my time at Brewbot.
 
+Here's a photo of the new 6-tap kegerator I built recently. I haven't been brewing much lately because I'm waiting until I've fully upgrated my home brewery. I've decided to wait on brewing until I've upgraded a lot of the safety features of my electric HLT.
+
+<center><img id="brewing" src="/images/brewing_kegerator.jpg" alt="fly sparge" style="width:400px; PADDING-TOP: 2px; PADDING-BOTTOM: 2px;"></center>
+
 At home, my current system is a keggle and ice chest mash tuns. Here's a photo of Matt fly-sparging some of that Double Nut Brown (link above.)
 
 <center><img id="brewing" src="/images/brewing_flysparge.jpg" alt="fly sparge" style="width:400px; PADDING-TOP: 2px; PADDING-BOTTOM: 2px;"></center>

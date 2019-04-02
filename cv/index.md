@@ -11,7 +11,7 @@ title: My CV
 
 <center><p><i>Team focused Mechanical Engineer with a passion for innovation, design and product development. Experience in founding and expanding hardware and firmware teams from conceptual design to prototype. Curious and inquisitive in robotics, fluid dynamics, hardware control and product design. Fortune 500 experience in product reliability & validation.</i></p></center>
 
-# Technical and Applied Skills
+# _Technical and Applied Skills_
 
 * **CAD**: SolidWorks 2004-2018, AutoCAD, Rhino, SketchUp, Adobe Illustrator, CorelDraw, & fab machine specific programs.
 * **Languages**: Python, C/C++, G-Code, MATLAB, Fortran 90, Ruby, HTML, Markdown.
@@ -22,7 +22,7 @@ title: My CV
 * **Heavy machinery experience**: Loader-backhoe, skid steer, bulldozer, wheel loader, excavator, Previously held CDL Class B -P for driving a passenger bus.
 * **Project Management**: Trello, Github, Buganizer, G-suite, Microsoft suite.
 
-# Development
+# _Development_
 
 ## Lead Reliability Test Engineer [Loon](www.loon.co) & [PFS](www.polarfield.com)
 
@@ -125,7 +125,7 @@ Modular Science, an early stage start-up developing hardware and software for bi
 
 * Founding member of an SAE sponsored intercollegiate vehicle competition focused on fuel efficiency; our team achieved 824 mpg.
 
-# Education
+# _Education_
 
 ## M.S. Mechanical Engineering
 
@@ -140,7 +140,7 @@ Modular Science, an early stage start-up developing hardware and software for bi
 
 * Engineering GPA: 3.53
 
-# Personal Interests
+# _Personal Interests_
 
 * Fluent in Spanish after living in Spain, Argentina, El Salvador, & Perú, for 3 years; conversational in Portuguese.
 * Ten years of brewing experience; I've brewed for weddings, events, and local bars.

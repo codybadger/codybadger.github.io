@@ -9,9 +9,11 @@ Here are some projects that I've worked on over the years and want to share. I'l
 
 # 1977 Schwinn Super Le Tour 12.2
 
+Coming soon.
+
 # 1928 Coleman Slant Lantern (228F)
 
-# Home Brewery
+Coming soon.
 
 # 1971 Chevrolet K10 350 Motor Rebuild
 
