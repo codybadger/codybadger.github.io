@@ -10,6 +10,7 @@ Over the years, I've worked at a number of different places; from a doer of ever
 <div align="center">
     <img src="/images/logo_loon.png" alt="Loon" style="height:50px; Padding-left: 15px; padding-right: 15px; PADDING-TOP: 2px; PADDING-BOTTOM: 5px;">
     <img src="/images/logo_x.png" alt="X, The Moonshot Factory" style="height:50px; Padding-left: 15px; padding-right: 15px; PADDING-TOP: 2px; PADDING-BOTTOM: 5px;">
+    <img src="/images/logo_pfs.png" alt="Polar Field Services" style="height:35px; Padding-left: 15px; padding-right: 15px; PADDING-TOP: 2px; PADDING-BOTTOM: 5px;">
     <img src="/images/logo_industrial_optic.png" alt="Industrial Optic" style="height:50px; Padding-left: 15px; padding-right: 15px; PADDING-TOP: 2px; PADDING-BOTTOM: 5px;">
     <img src="/images/logo_lemnos_labs.png" alt="Lemnos Labs" style="height:50px; Padding-left: 15px; padding-right: 15px; PADDING-TOP: 2px; PADDING-BOTTOM: 5px;">
     <img src="/images/logo_brewbot.png" alt="Brewbot" style="height:50px; Padding-left: 15px; padding-right: 15px; PADDING-TOP: 2px; PADDING-BOTTOM: 5px;">
