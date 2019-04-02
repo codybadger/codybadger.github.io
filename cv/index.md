@@ -28,7 +28,7 @@ title: My CV
 
 ### Mountain View, CA, August 2018 - Present
 
-#### Supervisor: *[Matt Rogge](link), Reliability Lead*
+#### Supervisor: *[Matt Rogge](https://www.linkedin.com/in/matthew-rogge-a3a4a655/), Reliability Lead*
 
 Loon, a [Google X](https://x.company/) graduate, has developed the most essential components of a cell tower and redesigned them to be light and durable enough to be carried by a balloon 20 km up, on the edge of space. I lead the hardware reliability test lab team.
 
