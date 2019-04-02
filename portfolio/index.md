@@ -8,6 +8,8 @@ title: Portfolio
 Over the years, I've worked at a number of different places; from a doer of everything on a beer brewing machine, mechanical lead at an industrial robotics startup, reliability testing on Tesla's Model S, destructive testing on 40-ton tractors, electric motorcycle design work, to municipal water supply design in El Salvador. Most of the info below can be found in my CV as well, but here are some of the brands I've worked with in the past:
 
 <div align="center">
+    <img src="/images/logo_loon.png" alt="Loon" style="height:50px; Padding-left: 15px; padding-right: 15px; PADDING-TOP: 2px; PADDING-BOTTOM: 5px;">
+    <img src="/images/logo_x.png" alt="X, The Moonshot Factory" style="height:50px; Padding-left: 15px; padding-right: 15px; PADDING-TOP: 2px; PADDING-BOTTOM: 5px;">
     <img src="/images/logo_industrial_optic.png" alt="Industrial Optic" style="height:50px; Padding-left: 15px; padding-right: 15px; PADDING-TOP: 2px; PADDING-BOTTOM: 5px;">
     <img src="/images/logo_lemnos_labs.png" alt="Lemnos Labs" style="height:50px; Padding-left: 15px; padding-right: 15px; PADDING-TOP: 2px; PADDING-BOTTOM: 5px;">
     <img src="/images/logo_brewbot.png" alt="Brewbot" style="height:50px; Padding-left: 15px; padding-right: 15px; PADDING-TOP: 2px; PADDING-BOTTOM: 5px;">
@@ -16,15 +18,24 @@ Over the years, I've worked at a number of different places; from a doer of ever
     <img src="/images/logo_case_con.png" alt="Case" style="height: 50px; Padding-left: 15px; padding-right: 15px; PADDING-TOP: 2px; PADDING-BOTTOM: 5px;">
     <img src="/images/logo_ewb.png" alt="EWB" style="height: 50px; Padding-left: 15px; padding-right: 15px; PADDING-TOP: 2px; PADDING-BOTTOM: 5px;">
     <img src="/images/logo_cnh.png" alt="CNH" style="height: 50px; Padding-left: 15px; padding-right: 15px; PADDING-TOP: 2px; PADDING-BOTTOM: 2px;">
-    <img src="/images/logo_missionmotors.png" alt="Mission Motors" style="height: 50px; Padding-left: 15px; padding-right: 15px; PADDING-TOP: 2px; PADDING-BOTTOM: 2px;">
     <img src="/images/logo_ucla.png" alt="UCLA" style="height: 50px; Padding-left: 15px; padding-right: 15px; PADDING-TOP: 2px; PADDING-BOTTOM: 2px;">
 </div>
 
 I hope you like my black and white color scheme, laid back tone, and centered stock photos. My web development skills will blossom later in life.
 
+## Loon
+
+Loon is a network of balloons traveling on the edge of space, delivering LTE connectivity to people in unserved and underserved communities around the world, as well as during times of emergency.
+
+Currently, I lead the reliability test team at [Loon](www.loon.co). We are a team of four, and we perform all hardware related reliability tests, primarily on the component level. We use various environmental chambers to run long term tests on flight avionics hardware, LTE components, as well as electromechanical hardware. As the team lead, I'm tasked with ensuring we deliver quality test results in a timely manner.
+
+<div align="center">
+    <img src="/images/portfolio_loon.png" alt="The Balloon" style="width:600px; Padding-left: 15px; padding-right: 15px; PADDING-TOP: 5px; PADDING-BOTTOM: 5px;">
+</div>
+
 ## Industrial Optic
 
-[Industrial Optic](www.industrialoptic.com) is my latest gig. I've spent about a year and a half working on a non-invasive (ie, no dig) method for repairing leaks in municipal drinking water distribution pipes. We developed a leak detection and repair delivery drone that deployed into water networks through a fire hydrant. I was the first employee at Industrial Optic, and led the initial technical assessment of the product, and then was the mechanical engineering lead for the product. Utilizing rapid prototyping methods available here in the Bay Area, we quickly built three different functional prototypes in less than a year.
+[Industrial Optic](www.industrialoptic.com) was a company I helped start, which was acquired by Mueller in 2018. I spent about a year and a half working on a non-invasive (ie, no dig) method for repairing leaks in municipal drinking water distribution pipes. We developed a leak detection and repair delivery drone that deployed into water networks through a fire hydrant. I was the first employee at Industrial Optic, and led the initial technical assessment of the product, and then was the mechanical engineering lead for the product. Utilizing rapid prototyping methods available here in the Bay Area, we quickly built three different functional prototypes in less than a year.
 
 In addition to the robot that delivered the repair mechanism, we also developed a patented repair method for internally repairing leaking pressure pipes. Rather than digging up streets, our technology was able to stop a leak in-situ, without disrupting water service. In short, our repair method utilized the idea behind heart stents to stop the leak.
 
