@@ -13,7 +13,7 @@ title: My CV
 
 # _Technical and Applied Skills_
 
-* **CAD**: SolidWorks 2004-2018, AutoCAD, Rhino, SketchUp, Adobe Illustrator, CorelDraw, & fab machine specific programs.
+* **CAD**: SolidWorks 2004-2019, AutoCAD, Rhino, SketchUp, Adobe Illustrator, CorelDraw, & fab machine specific programs.
 * **Languages**: Python, C/C++, G-Code, MATLAB, Fortran 90, Ruby, HTML, Markdown.
 * **Data Acquisition**: Somat eDAQ, Head Acoustics Squadriga & DataRec4, VBOX, Memorator, LabJack, RasPi hacky loggers.
 * **Test Equipment**: Environmental (temperature, humidity, altitude, UV, rain, vacuum) chambers, load frame (instron), torsion frame (instron), thermostream, Dynamometer, VNA, DMM, oscilloscope.
