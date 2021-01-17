@@ -13,7 +13,9 @@ Coming soon.
 
 # 1928 Coleman Slant Lantern (228F)
 
-Coming soon.
+I brought my great-great-grandfather's lantern back to life.
+
+<center><img id="lantern" src="/images/lantern_resize.jpg" alt="truck" style="width:5000px; PADDING-TOP: 2px; PADDING-BOTTOM: 2px;"></center>
 
 # 1971 Chevrolet K10 350 Motor Rebuild
 
