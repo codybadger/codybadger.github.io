@@ -54,11 +54,11 @@ And we salvaged their house from a hand me down of a hand me down of a chicken c
 
 We had a dilapadated shed in our backyard that was full of garbage, raccoon poop, spiders, and rats. I decided to tear it out after 8 years. I power washed the redwood exterior and used it as paneling on these planter boxes. I was also able to use most of the 2x4 frame of the shed as the frame of the planters.
 
-<center><img id="planters" src="/images/planter_shed.jpg" alt="the old shed" style="width:400px; PADDING-TOP: 2px; PADDING-BOTTOM: 2px;"></center>
+<center><img id="planters" src="/images/planter_shed.jpg" alt="the old shed" style="width:500px; PADDING-TOP: 2px; PADDING-BOTTOM: 2px;"></center>
 
 We now grow our herb garden in these new planters. You may recognize the tubs as old sinks from brewbot. I like to recycle this old junk, rather than just throw it out.
 
-<center><img id="planters" src="/images/planters.jpg" alt="herb garden" style="width:400px; PADDING-TOP: 2px; PADDING-BOTTOM: 2px;"></center>
+<center><img id="planters" src="/images/planters.jpg" alt="herb garden" style="width:500px; PADDING-TOP: 2px; PADDING-BOTTOM: 2px;"></center>
 
 # 1971 Chevrolet K10 350 Motor Rebuild
 
