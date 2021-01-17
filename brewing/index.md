@@ -7,7 +7,15 @@ title: Brewing
 
 <a href="/brewing/YosemiteFallsDoubleNutBrown.htm" target="_blank">Here</a> is my favorite recipe to brew at the moment. I've brewed about 75 batches of beer at home since I started. I've also brewed many batches with my time at Brewbot.
 
-Here's a photo of the new 6-tap kegerator I built recently. I haven't been brewing much lately because I'm waiting until I've fully upgrated my home brewery. I've decided to wait on brewing until I've upgraded a lot of the safety features of my electric HLT.
+I've finished building version 1 of my new brewery, and I've brewed about 10 batches on it so far. I'm really happy with it. I used an old Brewbot frame, some kegs for vessels, and built the electronics around a Particle Photon controller. I can run the brewery from my phone. Right now, it has 3 electronic ball valves, 2 pumps, an electric HLT, and a propane boil kettle. Here are a few photos:
+
+<center><img id="brewing" src="/images/brewery_1.jpg" alt="brewing in action" style="width:400px; PADDING-TOP: 2px; PADDING-BOTTOM: 2px;"></center>
+
+And here's a look inside the electronics.
+
+<center><img id="brewing" src="/images/brewery_electronics.jpg" alt="wires" style="width:400px; PADDING-TOP: 2px; PADDING-BOTTOM: 2px;"></center>
+
+I built this kegerator when Flossie was born, but it kicked the bucket two years later. It was filled with refrigerant R-12, and I didn't want to deal with trying to repair/recharge that, so I have since built a new, less cool one. I haven't been brewing much lately because I'm waiting until I've fully upgrated my home brewery. I've decided to wait on brewing until I've upgraded a lot of the safety features of my electric HLT.
 
 <center><img id="brewing" src="/images/brewing_kegerator.jpg" alt="fly sparge" style="width:400px; PADDING-TOP: 2px; PADDING-BOTTOM: 2px;"></center>
 
