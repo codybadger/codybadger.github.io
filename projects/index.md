@@ -40,15 +40,15 @@ I brought my great-great-grandfather's lantern back to life. I don't have a befo
 
 We now have chickens! We got them in May of 2020. Their names are Debbie Noodle, Michael Jordan, Lara, Pete, and Dr. Fauci.
 
-<center><img id="chickens" src="/images/chickens.jpg" alt="the egg layers" style="width:400px; PADDING-TOP: 2px; PADDING-BOTTOM: 2px;"></center>
+<center><img id="chickens" src="/images/chickens.jpg" alt="the egg layers" style="width:500px; PADDING-TOP: 2px; PADDING-BOTTOM: 2px;"></center>
 
 And they lay eggs! Michael Jordan obviously lays the best eggs.
 
-<center><img id="chickens" src="/images/chickens_eggs.jpg" alt="easter egger" style="width:400px; PADDING-TOP: 2px; PADDING-BOTTOM: 2px;"></center>
+<center><img id="chickens" src="/images/chickens_eggs.jpg" alt="easter egger" style="width:500px; PADDING-TOP: 2px; PADDING-BOTTOM: 2px;"></center>
 
 And we salvaged their house from a hand me down of a hand me down of a chicken coop. Nothing about it is square, but it works. We painted it with an egg themed palette.
 
-<center><img id="chickens" src="/images/chicken_coop.jpg" alt="the egg home" style="width:400px; PADDING-TOP: 2px; PADDING-BOTTOM: 2px;"></center>
+<center><img id="chickens" src="/images/chicken_coop.jpg" alt="the egg home" style="width:500px; PADDING-TOP: 2px; PADDING-BOTTOM: 2px;"></center>
 
 # 1971 Chevrolet K10 350 Motor Rebuild
 
