@@ -18,11 +18,11 @@ I bought this bike in Chicago in 2010, after my previous bike was stolen. It was
 
 Here is a picture of the bike when I first bought it.
 
-<center><img id="red voyageur" src="/images/voyageur_before.jpg" alt="bike" style="width:300px; PADDING-TOP: 2px; PADDING-BOTTOM: 2px;"></center>
+<center><img id="red voyageur" src="/images/voyageur_before.jpg" alt="bike" style="width:500px; PADDING-TOP: 2px; PADDING-BOTTOM: 2px;"></center>
 
 And here it is now.
 
-<center><img id="white voyageur" src="/voyageur_after.jpg" alt="bike" style="width:300px; PADDING-TOP: 2px; PADDING-BOTTOM: 2px;"></center>
+<center><img id="white voyageur" src="/images/voyageur_after.jpg" alt="bike" style="width:500px; PADDING-TOP: 2px; PADDING-BOTTOM: 2px;"></center>
 
 # 1977 Schwinn Super Le Tour 12.2
 
