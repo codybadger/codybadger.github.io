@@ -15,7 +15,7 @@ Coming soon.
 
 I brought my great-great-grandfather's lantern back to life.
 
-<center><img id="lantern" src="/images/lantern_resize.jpg" alt="truck" style="width:500px; PADDING-TOP: 2px; PADDING-BOTTOM: 2px;"></center>
+<center><img id="lantern" src="/images/lantern_resize.jpg" alt="truck" style="width:300px; PADDING-TOP: 2px; PADDING-BOTTOM: 2px;"></center>
 
 # 1971 Chevrolet K10 350 Motor Rebuild
 
