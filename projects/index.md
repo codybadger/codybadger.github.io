@@ -7,13 +7,30 @@ title: Projects
 
 Here are some projects that I've worked on over the years and want to share. I'll be adding content periodically, but feel free to ask me about any of them if you have any questions.
 
+# 1987 Schwinn Voyageur
+
+I bought this bike in Chicago in 2010, after my previous bike was stolen. It was my daily rider, and then I decided to upgrade it.
+
+- 3x6 speed to 3x9, with new long cage derailleur and chain
+- Updated to modern 1 1/8" stem and handlebars
+- Downtube shifters to bar-end
+- Heavy duty touring racks
+
+Here is a picture of the bike when I first bought it.
+
+<center><img id="red voyageur" src="/images/voyageur_before.jpg" alt="bike" style="width:300px; PADDING-TOP: 2px; PADDING-BOTTOM: 2px;"></center>
+
+And here it is now.
+
+<center><img id="white voyageur" src="/voyageur_after.jpg" alt="bike" style="width:300px; PADDING-TOP: 2px; PADDING-BOTTOM: 2px;"></center>
+
 # 1977 Schwinn Super Le Tour 12.2
 
 Coming soon.
 
 # 1928 Coleman Slant Lantern (228F)
 
-I brought my great-great-grandfather's lantern back to life.
+I brought my great-great-grandfather's lantern back to life. I don't have a before picture, but it was all rusted out and I almost took it to the dump, before I realized what it was. Some consider this the holy grail of coleman lanterns.
 
 <center><img id="lantern" src="/images/lantern_resize.jpg" alt="truck" style="width:300px; PADDING-TOP: 2px; PADDING-BOTTOM: 2px;"></center>
 
