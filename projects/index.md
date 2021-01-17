@@ -15,6 +15,8 @@ I bought this bike in Chicago in 2010, after my previous bike was stolen. It was
 - Updated to modern 1 1/8" stem and handlebars
 - Downtube shifters to bar-end
 - Heavy duty touring racks
+- new ball bearings and cables throughout
+- cream powdercoat
 
 Here is a picture of the bike when I first bought it.
 
