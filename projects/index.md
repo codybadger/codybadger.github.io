@@ -50,6 +50,16 @@ And we salvaged their house from a hand me down of a hand me down of a chicken c
 
 <center><img id="chickens" src="/images/chicken_coop.jpg" alt="the egg home" style="width:500px; PADDING-TOP: 2px; PADDING-BOTTOM: 2px;"></center>
 
+# Planter Boxes
+
+We had a dilapadated shed in our backyard that was full of garbage, raccoon poop, spiders, and rats. I decided to tear it out after 8 years. I power washed the redwood exterior and used it as paneling on these planter boxes. I was also able to use most of the 2x4 frame of the shed as the frame of the planters.
+
+<center><img id="planters" src="/images/planter_shed.jpg" alt="the old shed" style="width:400px; PADDING-TOP: 2px; PADDING-BOTTOM: 2px;"></center>
+
+We now grow our herb garden in these new planters. You may recognize the tubs as old sinks from brewbot. I like to recycle this old junk, rather than just throw it out.
+
+<center><img id="planters" src="/images/planters.jpg" alt="herb garden" style="width:400px; PADDING-TOP: 2px; PADDING-BOTTOM: 2px;"></center>
+
 # 1971 Chevrolet K10 350 Motor Rebuild
 
 I've blown up my motor twice now. In high school, a push rod snapped, and then in 2011 a main bearing spun. I bought this truck for $700 from my grandfather when I was 18. I did some body work on it, and this is what it looked like during that time. A few months after this photo was taken, the aforementioned rod snapped, and a mechanic friend helped me rebuild the motor.
