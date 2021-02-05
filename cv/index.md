@@ -15,7 +15,7 @@ title: My CV
 
 * **CAD**: SolidWorks 2004-2019, AutoCAD, Rhino, SketchUp, Adobe Illustrator, CorelDraw.
 * **Languages**: Python, C/C++, G-Code, Fortran 90, Ruby, HTML, Markdown.
-* **Analysis**: MATLAB, JMP, nCode Glyphworks.
+* **Analysis**: MATLAB, JMP, nCode Glyphworks, Excel/Sheets.
 * **Data Acquisition**: Somat eDAQ, Head Acoustics Squadriga & DataRec4, VBOX, Memorator, LabJack, RasPi hacky loggers.
 * **Test Equipment**: Environmental (temperature, humidity, altitude, UV, rain, vacuum) chambers, load frame (instron), torsion frame (instron), thermostream, Dynamometer, VNA, DMM, oscilloscope.
 * **Test Sensors**: Strain gauge, accelerometer, thermocouple, thermistor, GPS, photo sensor, pressure transducer, load cell, motor encoders.
