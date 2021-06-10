@@ -25,20 +25,35 @@ title: My CV
 
 # _Development_
 
+## Powertrain Test Engineer [Zero Motorcycles](www.zeromotorcycles.com)
+
+### Scotts Valley, CA, February 2021 - Present
+
+#### Supervisor: *Marko Cater, Director of Prototype and Test*
+
+Zero Motorcycles is a global leader in electric motorycles. They have a partnership with Polaris to help electrify their powersports products. I am working on validation efforts that will bring Zero powertrain technology to Polaris vehicles.
+
+* Maintain technical relationship with Polaris engineering teams in order to plan, execute, and analyze powertrain validation tests.
+* Work with Zero engineering teams in order to successfully create test plans that meet Polaris validation needs.
+* Schedule and execute powertrain tests both in and out-of-house. This primarily includes battery pack, charger, motor, controllers, BMS.
+* Review environmental, vibe, ingress/immersion test specifications and adjust as appropriate for given program.
+* Manage and participate in DFMEAs and DVP&Rs for various powertrain systems.
+* Assist or own other testing efforts as needed.
+
 ## Lead Reliability Test Engineer [Loon](www.loon.co) & [PFS](www.polarfield.com)
 
-### Mountain View, CA, August 2018 - Present
+### Mountain View, CA, August 2018 - April 2021
 
 #### Supervisor: *[Derek Herbert](https://www.linkedin.com/in/derekherbert/), Reliability Lead*
 
 Loon, a [Google X](https://x.company/) graduate, has developed the most essential components of a cell tower and redesigned them to be light and durable enough to be carried by a balloon at a 60,000 foot elevation, on the edge of space. I lead the hardware reliability test lab team.
 
-* Manage all hardware related reliability tests for the company.
-* Personally setup, maintain, monitor, and analyze between 5 and 15 tests at any given time. Our team will own 25 - 50 live tests.
-* Program environmental chamber, write/edit test scripts, build data visualization and alerting.
-* Keep entire test lab efficient and functional by owning tool/chamber maintenance and purchasing tools/supplies/equipment as needed.
-* Provide metrics and insights on test lab performance to upper management.
-* Ensure team's workload is properly distributed based on individual schedule and expertise.
+* Managed all hardware related reliability tests for the company.
+* Personally setup, maintained, monitored, and analyzed between 5 and 15 tests at any given time. Our team owned 25 - 50 live tests.
+* Programmed environmental chamber, wrote/edited test scripts, built data visualization and alerting.
+* Kept entire test lab efficient and functional by owning tool/chamber maintenance and purchasing tools/supplies/equipment as needed.
+* Provided metrics and insights on test lab performance to upper management.
+* Ensured team's workload was properly distributed based on individual schedule and expertise.
 
 ## Founding Engineer [Industrial Optic](www.industrialoptic.io)
 
