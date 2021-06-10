@@ -13,10 +13,10 @@ title: My CV
 
 # _Technical and Applied Skills_
 
-* **CAD**: SolidWorks 2004-2019, AutoCAD, Rhino, SketchUp, Adobe Illustrator, CorelDraw.
+* **CAD**: SolidWorks 2004-2020, AutoCAD, Rhino, SketchUp, Adobe Illustrator, CorelDraw.
 * **Languages**: Python, C/C++, G-Code, Fortran 90, Ruby, HTML, Markdown.
 * **Analysis**: MATLAB, JMP, nCode Glyphworks, Excel/Sheets.
-* **Data Acquisition**: Somat eDAQ, Head Acoustics Squadriga & DataRec4, VBOX, Memorator, LabJack, RasPi hacky loggers.
+* **Data Acquisition**: Somat eDAQ, Head Acoustics Squadriga & DataRec4, VBOX, Kvaser Memorator, LabJack, RasPi hacky loggers.
 * **Test Equipment**: Environmental (temperature, humidity, altitude, UV, rain, vacuum) chambers, load frame (instron), torsion frame (instron), thermostream, Dynamometer, VNA, DMM, oscilloscope.
 * **Test Sensors**: Strain gauge, accelerometer, thermocouple, thermistor, GPS, photo sensor, pressure transducer, load cell, motor encoders.
 * **Fabricating**: Extensive skills in wood, metal, and automotive shops. Experience with CNC cutters and mills, hand mills, welding, lathe, vacuum forming, injection molding, 3D printing, laser cutting, water jet.
