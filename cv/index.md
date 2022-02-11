@@ -13,7 +13,7 @@ title: My CV
 
 # _Technical and Applied Skills_
 
-* **CAD**: SolidWorks 2004-2020, AutoCAD, Rhino, SketchUp, Adobe Illustrator, CorelDraw.
+* **CAD**: SolidWorks 2004-2021, AutoCAD, Rhino, SketchUp, Adobe Illustrator, CorelDraw.
 * **Languages**: Python, C/C++, G-Code, Fortran 90, Ruby, HTML, Markdown.
 * **Analysis**: MATLAB, JMP, nCode Glyphworks, Excel/Sheets.
 * **Data Acquisition**: Somat eDAQ, Head Acoustics Squadriga & DataRec4, VBOX, Kvaser Memorator, LabJack, RasPi hacky loggers.
@@ -35,7 +35,7 @@ Zero Motorcycles is a global leader in electric motorycles. They have a partners
 
 * Maintain technical relationship with Polaris engineering teams in order to plan, execute, and analyze powertrain validation tests.
 * Work with Zero engineering teams in order to successfully create test plans that meet Polaris validation needs.
-* Schedule and execute powertrain tests both in and out-of-house. This primarily includes battery pack, charger, motor, controllers, BMS.
+* Schedule and execute powertrain tests for EV battery pack primarily, but also charger, motor, controllers, BMS.
 * Review environmental, vibe, ingress/immersion test specifications and adjust as appropriate for given program.
 * Manage and participate in DFMEAs and DVP&Rs for various powertrain systems.
 * Assist or own other testing efforts as needed.
