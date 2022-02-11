@@ -29,7 +29,7 @@ title: My CV
 
 ### Scotts Valley, CA, February 2021 - Present
 
-#### Supervisor: *Marko Cater, Director of Prototype and Test*
+#### Supervisor: *John Kling, Director of Prototype and Test*
 
 Zero Motorcycles is a global leader in electric motorycles. They have a partnership with Polaris to help electrify their powersports products. I am working on validation efforts that will bring Zero powertrain technology to Polaris vehicles.
 
