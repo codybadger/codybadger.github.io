@@ -170,7 +170,7 @@ Modular Science, an early stage start-up developing hardware and software for bi
 # _Personal Interests_
 
 * Fluent in Spanish after living in Spain, Argentina, El Salvador, & Perú, for 3 years; conversational in Portuguese.
-* Ten years of brewing experience; I've brewed for weddings, events, and local bars.
+* 14 years of brewing experience; I've brewed for weddings, events, and local bars.
 * Teaching experience: Lab instructor in grad school, 8th grade pre-algebra, photography.
 * Played 4 years of collegiate level Ultimate Frisbee for the UCLA Men’s team and passionate about other sports.
 * Avid outdoorsman, fisherman, & backpacker; hiked solo 230 miles in the Sierra Nevada in 18 days.
