@@ -25,20 +25,31 @@ title: My CV
 
 # _Development_
 
+## Senior Hardware Test Engineer, Reliability II [Cruise](www.getcruise.com)
+
+### San Francisco, CA, April 2022 - Present
+
+#### Supervisor: *Danny Wang, Senior Staff Hardware Engineer TLM*
+
+Cruise is building the world’s most advanced self-driving vehicles to safely connect people with the places, things, and experiences they care about.
+
+* Plan, schedule, and execute hardware reliability tests on compute and sensor systems.
+* Cross-functional work with reliability, design, manufacturing, failure analysis teams to get components/systems tested that represents reality.
+
 ## Powertrain Test Engineer [Zero Motorcycles](www.zeromotorcycles.com)
 
-### Scotts Valley, CA, February 2021 - Present
+### Scotts Valley, CA, February 2021 - March 2022
 
 #### Supervisor: *John Kling, Director of Prototype and Test*
 
-Zero Motorcycles is a global leader in electric motorycles. They have a partnership with Polaris to help electrify their powersports products. I am working on validation efforts that will bring Zero powertrain technology to Polaris vehicles.
+Zero Motorcycles is a global leader in electric motorycles. They have a partnership with Polaris to help electrify their powersports products. I worked on validation efforts that will bring Zero powertrain technology to Polaris vehicles.
 
-* Maintain technical relationship with Polaris engineering teams in order to plan, execute, and analyze powertrain validation tests.
-* Work with Zero engineering teams in order to successfully create test plans that meet Polaris validation needs.
-* Schedule and execute powertrain tests for EV battery pack primarily, but also charger, motor, controllers, BMS.
-* Review environmental, vibe, ingress/immersion test specifications and adjust as appropriate for given program.
-* Manage and participate in DFMEAs and DVP&Rs for various powertrain systems.
-* Assist or own other testing efforts as needed.
+* Maintained technical relationship with Polaris engineering teams in order to plan, execute, and analyze powertrain validation tests.
+* Worked with Zero engineering teams in order to successfully create test plans that meet Polaris validation needs.
+* Scheduled and executed powertrain tests for EV battery pack primarily, but also charger, motor, controllers, BMS.
+* Reviewed environmental, vibe, ingress/immersion test specifications and adjusted as appropriate for given program.
+* Managed and participated in DFMEAs and DVP&Rs for various powertrain systems.
+* Assisted or own other testing efforts as needed.
 
 ## Lead Reliability Test Engineer [Loon](www.loon.co) & [PFS](www.polarfield.com)
 
