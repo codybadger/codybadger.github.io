@@ -5,6 +5,10 @@ title: 2004 Toyota Sequoia
 
 # {{ page.title }}
 
+<div align="center">
+    <img src="/images/2004toyotasequoialimited.jpg" alt="A sweet rig" style="width:600px; Padding-left: 15px; padding-right: 15px; PADDING-TOP: 5px; PADDING-BOTTOM: 5px;">
+</div>
+
 ## Seller's Notes
 
 Call or text me with quesitons: 831-359-9889.
