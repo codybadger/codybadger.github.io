@@ -13,15 +13,15 @@ title: My CV
 
 # _Technical and Applied Skills_
 
-* **CAD**: SolidWorks 2004-2021, AutoCAD, Rhino, SketchUp, Adobe Illustrator, CorelDraw.
+* **CAD**: SolidWorks 2004-2022, AutoCAD, Rhino, SketchUp, Adobe Illustrator, CorelDraw.
 * **Languages**: Python, C/C++, G-Code, Fortran 90, Ruby, HTML, Markdown.
-* **Analysis**: MATLAB, JMP, nCode Glyphworks, Excel/Sheets.
-* **Data Acquisition**: Somat eDAQ, Head Acoustics Squadriga & DataRec4, VBOX, Kvaser Memorator, LabJack, RasPi hacky loggers.
-* **Test Equipment**: Environmental (temperature, humidity, altitude, UV, rain, vacuum) chambers, load frame (instron), torsion frame (instron), thermostream, Dynamometer, VNA, DMM, oscilloscope.
+* **Analysis**: MATLAB, JMP, nCode Glyphworks, Excel/Sheets, python.
+* **Data Acquisition**: Somat eDAQ, Head Acoustics Squadriga & DataRec4, VBOX, Kvaser Memorator, LabJack, custom Linux loggers.
+* **Test Equipment**: Environmental (temperature, humidity, altitude, UV, rain, vacuum) chambers, load frame (instron), torsion frame (instron), shaker tables, HALT chambers, thermostream, Dynamometer, VNA, DMM, oscilloscope.
 * **Test Sensors**: Strain gauge, accelerometer, thermocouple, thermistor, GPS, photo sensor, pressure transducer, load cell, motor encoders.
 * **Fabricating**: Extensive skills in wood, metal, and automotive shops. Experience with CNC cutters and mills, hand mills, welding, lathe, vacuum forming, injection molding, 3D printing, laser cutting, water jet.
 * **Heavy machinery experience**: Loader-backhoe, skid steer, bulldozer, wheel loader, excavator, Previously held CDL Class B -P for driving a passenger bus.
-* **Project Management**: Trello, Github, Buganizer, Jira, G-suite, Microsoft suite.
+* **Project Management**: Trello, Github, Buganizer, Atlassian Confluence & Jira, G-suite, Microsoft suite.
 
 # _Development_
 
@@ -33,7 +33,8 @@ title: My CV
 
 Cruise is building the world’s most advanced self-driving vehicles to safely connect people with the places, things, and experiences they care about.
 
-* Plan, schedule, and execute hardware reliability tests on compute and sensor systems.
+* Plan, schedule, and execute hardware reliability tests on compute, sensor, and cargo systems.
+* Manage Cruise's cargo reliability validation tests.
 * Cross-functional work with reliability, design, manufacturing, failure analysis teams to get components/systems tested that represents reality.
 
 ## Powertrain Test Engineer [Zero Motorcycles](www.zeromotorcycles.com)
@@ -49,7 +50,7 @@ Zero Motorcycles is a global leader in electric motorycles. They have a partners
 * Scheduled and executed powertrain tests for EV battery pack primarily, but also charger, motor, controllers, BMS.
 * Reviewed environmental, vibe, ingress/immersion test specifications and adjusted as appropriate for given program.
 * Managed and participated in DFMEAs and DVP&Rs for various powertrain systems.
-* Assisted or own other testing efforts as needed.
+* Assisted or owned other testing efforts as needed.
 
 ## Lead Reliability Test Engineer [Loon](www.loon.co) & [PFS](www.polarfield.com)
 
