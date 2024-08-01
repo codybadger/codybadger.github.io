@@ -13,11 +13,11 @@ title: My CV
 
 # _Technical and Applied Skills_
 
-* **CAD**: SolidWorks 2004-2022, AutoCAD, Rhino, SketchUp, Adobe Illustrator, CorelDraw.
+* **CAD**: SolidWorks, NX, AutoCAD, Rhino, SketchUp, Adobe Illustrator, CorelDraw.
 * **Languages**: Python, C/C++, G-Code, Fortran 90, Ruby, HTML, Markdown.
 * **Analysis**: MATLAB, JMP, nCode Glyphworks, Excel/Sheets, python.
 * **Data Acquisition**: Somat eDAQ, Head Acoustics Squadriga & DataRec4, VBOX, Kvaser Memorator, LabJack, custom Linux loggers.
-* **Test Equipment**: Environmental (temperature, humidity, altitude, UV, rain, vacuum) chambers, load frame (instron), torsion frame (instron), shaker tables, HALT chambers, thermostream, Dynamometer, VNA, DMM, oscilloscope.
+* **Test Equipment**: Environmental (temperature, humidity, shock, altitude, UV, rain, vacuum) chamber, load/torsion frame (instron), shaker table, HALT chamber, thermostream, dynamometer, VNA, DMM, oscilloscope.
 * **Test Sensors**: Strain gauge, accelerometer, thermocouple, thermistor, GPS, photo sensor, pressure transducer, load cell, motor encoders.
 * **Fabricating**: Extensive skills in wood, metal, and automotive shops. Experience with CNC cutters and mills, hand mills, welding, lathe, vacuum forming, injection molding, 3D printing, laser cutting, water jet.
 * **Heavy machinery experience**: Loader-backhoe, skid steer, bulldozer, wheel loader, excavator, Previously held CDL Class B -P for driving a passenger bus.
@@ -34,7 +34,9 @@ title: My CV
 Cruise is building the world’s most advanced self-driving vehicles to safely connect people with the places, things, and experiences they care about.
 
 * Plan, schedule, and execute hardware reliability tests on compute, sensor, and cargo systems.
-* Manage Cruise's cargo reliability validation tests.
+* Compute tests included chip, component, board, system, and custom silicon level tests.
+* Managed Cruise's cargo reliability validation tests.
+* Assisted with mechanical design of wheelchair access vehicle.
 * Cross-functional work with reliability, design, manufacturing, failure analysis teams to get components/systems tested that represents reality.
 
 ## Powertrain Test Engineer [Zero Motorcycles](www.zeromotorcycles.com)
@@ -171,7 +173,7 @@ Modular Science, an early stage start-up developing hardware and software for bi
 # _Personal Interests_
 
 * Fluent in Spanish after living in Spain, Argentina, El Salvador, & Perú, for 3 years; conversational in Portuguese.
-* 14 years of brewing experience; I've brewed for weddings, events, and local bars.
+* 15 years of brewing experience; I've brewed for weddings, events, and local bars.
 * Teaching experience: Lab instructor in grad school, 8th grade pre-algebra, photography.
 * Played 4 years of collegiate level Ultimate Frisbee for the UCLA Men’s team and passionate about other sports.
-* Avid outdoorsman, fisherman, & backpacker; hiked solo 230 miles in the Sierra Nevada in 18 days.
+* Avid skiier, outdoorsman, fisherman, & backpacker; hiked solo 230 miles in the Sierra Nevada in 18 days.
