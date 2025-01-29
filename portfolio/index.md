@@ -8,6 +8,7 @@ title: Portfolio
 Over the years, I've worked at a number of different places; from a doer of everything on a beer brewing machine, mechanical lead at an industrial robotics startup, reliability testing on Tesla's Model S, destructive testing on 40-ton tractors, electric motorcycle design work, to municipal water supply design in El Salvador. Most of the info below can be found in my CV as well, but here are some of the brands I've worked with in the past:
 
 <div align="center">
+    <img src="/images/logo_cruise.png" alt="Cruise" style="height:50px; Padding-left: 15px; padding-right: 15px; PADDING-TOP: 2px; PADDING-BOTTOM: 5px;">
     <img src="/images/logo_loon.png" alt="Loon" style="height:50px; Padding-left: 15px; padding-right: 15px; PADDING-TOP: 2px; PADDING-BOTTOM: 5px;">
     <img src="/images/logo_x.png" alt="X, The Moonshot Factory" style="height:50px; Padding-left: 15px; padding-right: 15px; PADDING-TOP: 2px; PADDING-BOTTOM: 5px;">
     <img src="/images/logo_pfs.png" alt="Polar Field Services" style="height:35px; Padding-left: 15px; padding-right: 15px; PADDING-TOP: 2px; PADDING-BOTTOM: 5px;">
@@ -24,11 +25,19 @@ Over the years, I've worked at a number of different places; from a doer of ever
 
 I hope you like my black and white color scheme, laid back tone, and centered stock photos. My web development skills will blossom later in life.
 
+## Cruise
+
+For a moment, Cruise was the leader in driverless cars. I am a senior reliability test engineer for autonomous driving hardware, working mostly on the compute module and its componentry. I also work on various sensors (lidar, radar, microphones, cameras) as well as special projects such as delivery or wheelchair access vehicles.
+
+<div align="center">
+    <img src="/images/portfolio_cruise.png" alt="A110" style="width:600px; Padding-left: 15px; padding-right: 15px; PADDING-TOP: 5px; PADDING-BOTTOM: 5px;">
+</div>
+
 ## Loon
 
 Loon is a network of balloons traveling on the edge of space, delivering LTE connectivity to people in unserved and underserved communities around the world, as well as during times of emergency.
 
-Currently, I lead the reliability test team at [Loon](www.loon.co). We are a team of four, and we perform all hardware related reliability tests, primarily on the component level. We use various environmental chambers to run long term tests on flight avionics hardware, LTE components, as well as electromechanical hardware. As the team lead, I'm tasked with ensuring we deliver quality test results in a timely manner.
+I led the reliability test team at [Loon](www.loon.co) for three years. We were a team of four, and performed all hardware related reliability tests, primarily on the component level, using various environmental chambers to run long term tests on flight avionics hardware, LTE components, as well as electromechanical hardware. As the team lead, I was tasked with ensuring we delivered quality test results in a timely manner.
 
 <div align="center">
     <img src="/images/portfolio_loon.png" alt="The Balloon" style="width:600px; Padding-left: 15px; padding-right: 15px; PADDING-TOP: 5px; PADDING-BOTTOM: 5px;">
@@ -84,7 +93,9 @@ The stress testing mostly revolved around measuring strain of structural members
 
 ## Zero Motorcycles
 
-My first job out of grad school was working for Zero Motorcycles. I began working as a production technician, building sub-assemblies and full motorcycles, but quickly got picked up by the mechanical engineering team to work on design of the 2012 lineup. I helped the senior engineers at Zero design, order, and test prototype parts, which would eventually make it into the BOM for the bike.
+I worked for Zero Motorcycles from 2021-2022 as a powertrain test engineer, supporting the partnership between Zero and Polaris. I helped ensure that Zero developed powertrain hardware met the requirements for use in electrified Polaris powersports vehicles. 
+
+Also, my first job out of grad school was working for Zero Motorcycles. I began working as a production technician, building sub-assemblies and full motorcycles, but quickly got picked up by the mechanical engineering team to work on design of the 2012 lineup. I helped the senior engineers at Zero design, order, and test prototype parts, which would eventually make it into the BOM for the bike.
 
 <div align="center">
     <img src="/images/portfolio_zero.jpg" alt="2012 Zero DS" style="width:400px; Padding-left: 15px; padding-right: 15px; PADDING-TOP: 5px; PADDING-BOTTOM: 5px;">
