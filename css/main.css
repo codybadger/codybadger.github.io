@@ -2,25 +2,14 @@
     height: 100%;
     padding: 0;
     margin: 0;
-    display: -webkit-box;
-    display: -moz-box;
-    display: -ms-flexbox;
-    display: -webkit-flex;
     display: flex;
     align-items: center;
     justify-content: center;
 }
 
 #face-img {
-    -webkit-transition-property: -webkit-transform;
-    -moz-transition-property: -moz-transform;
-    -o-transition-property: -o-transform;
-    transition-property: transform;
-
-    -webkit-transition-duration: 1.6s;
-    -moz-transition-duration: 1.6s;
-    -o-transition-duration: 1.6s;
-    transition-duration: 1.6s;
+    transition: transform 1.6s ease;
+    cursor: pointer;
 }
 
 body {

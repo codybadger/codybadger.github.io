@@ -1,0 +1,46 @@
+---
+export interface Props {
+  src: string;
+  alt: string;
+  width?: string;
+  paddingTop?: string;
+  paddingBottom?: string;
+}
+
+const { 
+  src, 
+  alt, 
+  width = "600px", 
+  paddingTop = "100px", 
+  paddingBottom = "100px" 
+} = Astro.props;
+---
+
+<center>
+  <img 
+    id="face-img" 
+    src={src} 
+    alt={alt} 
+    style={`width: ${width}; padding-top: ${paddingTop}; padding-bottom: ${paddingBottom};`}
+  />
+</center>
+
+<script>
+  let rotating = false;
+  
+  document.addEventListener('DOMContentLoaded', function() {
+    const faceImg = document.getElementById('face-img');
+    
+    if (faceImg) {
+      faceImg.addEventListener('click', function() {
+        if (!rotating) {
+          this.style.transform = 'rotate(720deg)';
+          rotating = true;
+        } else {
+          this.style.transform = '';
+          rotating = false;
+        }
+      });
+    }
+  });
+</script> 
