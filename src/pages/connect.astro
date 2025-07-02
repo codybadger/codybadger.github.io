@@ -2,7 +2,173 @@
 import Layout from '../layouts/Layout.astro';
 ---
 
-<Layout title="Connect" description="Get in touch with Cody Badger">
-  <h1>Connect</h1>
-  <p>Connect content coming soon. This will have contact information and ways to get in touch.</p>
+<Layout title="Connect" description="Get in touch with Cody Badger - Connect on social media and professional networks">
+  <h1 class="header">Connect</h1>
+  <p>Let's connect! Find me on these platforms or reach out directly:</p>
+  
+  <div class="connect-grid">
+    <!-- Email -->
+    <div class="connect-item">
+      <h3>📧 Email</h3>
+      <div class="email-section">
+        <img src="/images/e-mail_us.jpeg" alt="Email Icon" class="email-icon" />
+        <a href="mailto:c@codycardbadger.com" class="connect-link">c@codycardbadger.com</a>
+      </div>
+    </div>
+
+    <!-- GitHub -->
+    <div class="connect-item">
+      <h3>💻 GitHub</h3>
+      <a href="https://github.com/codybadger" target="_blank" class="connect-link">@codybadger</a>
+      <div class="github-widget">
+        <iframe 
+          src="https://github.com/codybadger" 
+          width="100%" 
+          height="200" 
+          frameborder="0" 
+          style="border-radius: 8px;">
+        </iframe>
+      </div>
+    </div>
+
+    <!-- LinkedIn -->
+    <div class="connect-item">
+      <h3>🔗 LinkedIn</h3>
+      <a href="https://www.linkedin.com/in/codybadger/" target="_blank" class="connect-link">linkedin.com/in/codybadger/</a>
+      <div class="linkedin-widget">
+        <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+        <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="codybadger" data-version="v1">
+          <a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/codybadger?trk=profile-badge">Cody Badger</a>
+        </div>
+      </div>
+    </div>
+
+    <!-- Instagram -->
+    <div class="connect-item">
+      <h3>📸 Instagram</h3>
+      <a href="https://www.instagram.com/badgasaurus/" target="_blank" class="connect-link">@badgasaurus</a>
+      <div class="instagram-widget">
+        <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/badgasaurus/" data-instgrm-version="14">
+          <div style="padding: 16px;">
+            <a href="https://www.instagram.com/badgasaurus/" target="_blank" style="color:#3897f0;">
+              View @badgasaurus on Instagram
+            </a>
+          </div>
+        </blockquote>
+        <script async src="//www.instagram.com/embed.js"></script>
+      </div>
+    </div>
+
+    <!-- Facebook -->
+    <div class="connect-item">
+      <h3>👥 Facebook</h3>
+      <a href="https://www.facebook.com/codybadger" target="_blank" class="connect-link">facebook.com/codybadger</a>
+      <div class="facebook-widget">
+        <div class="fb-page" 
+          data-href="https://www.facebook.com/codybadger" 
+          data-tabs="timeline" 
+          data-width="350" 
+          data-height="200" 
+          data-small-header="true" 
+          data-adapt-container-width="true" 
+          data-hide-cover="false" 
+          data-show-facepile="false">
+        </div>
+      </div>
+    </div>
+
+    <!-- Personal Website -->
+    <div class="connect-item">
+      <h3>🌐 Personal Website</h3>
+      <a href="https://codycardbadger.com" target="_blank" class="connect-link">codycardbadger.com</a>
+      <p class="description">You're already here! But this is my main personal website.</p>
+    </div>
+  </div>
+
+  <!-- Social Media Loading Scripts -->
+  <div id="fb-root"></div>
+  <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v18.0"></script>
+
+  <style>
+    .connect-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+      gap: 2rem;
+      margin-top: 2rem;
+    }
+
+    .connect-item {
+      background: #f8f9fa;
+      border-radius: 12px;
+      padding: 1.5rem;
+      border: 1px solid #e9ecef;
+      transition: transform 0.2s ease, box-shadow 0.2s ease;
+    }
+
+    .connect-item:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    }
+
+    .connect-item h3 {
+      margin-top: 0;
+      margin-bottom: 1rem;
+      color: #2c3e50;
+      font-size: 1.2rem;
+    }
+
+    .connect-link {
+      display: inline-block;
+      color: #3498db;
+      text-decoration: none;
+      font-weight: 500;
+      margin-bottom: 1rem;
+      transition: color 0.2s ease;
+    }
+
+    .connect-link:hover {
+      color: #2980b9;
+      text-decoration: underline;
+    }
+
+    .email-section {
+      display: flex;
+      align-items: center;
+      gap: 1rem;
+    }
+
+    .email-icon {
+      width: 40px;
+      height: 40px;
+      border-radius: 8px;
+      object-fit: cover;
+    }
+
+    .github-widget,
+    .linkedin-widget,
+    .instagram-widget,
+    .facebook-widget {
+      margin-top: 1rem;
+      border-radius: 8px;
+      overflow: hidden;
+    }
+
+    .description {
+      color: #6c757d;
+      font-style: italic;
+      margin-top: 0.5rem;
+    }
+
+    /* Responsive adjustments */
+    @media (max-width: 768px) {
+      .connect-grid {
+        grid-template-columns: 1fr;
+        gap: 1rem;
+      }
+      
+      .connect-item {
+        padding: 1rem;
+      }
+    }
+  </style>
 </Layout> 
