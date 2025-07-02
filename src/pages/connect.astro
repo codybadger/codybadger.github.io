@@ -9,112 +9,174 @@ import Layout from '../layouts/Layout.astro';
   <div class="connect-grid">
     <!-- Email -->
     <div class="connect-item">
-      <h3>📧 Email</h3>
-      <div class="email-section">
-        <img src="/images/e-mail_us.jpeg" alt="Email Icon" class="email-icon" />
-        <a href="mailto:c@codycardbadger.com" class="connect-link">c@codycardbadger.com</a>
+      <div class="connect-content">
+        <div class="icon-section">
+          <img src="/images/e-mail_us.jpeg" alt="Email" class="connect-icon" />
+        </div>
+        <div class="text-section">
+          <h3>Email</h3>
+          <a href="mailto:c@codycardbadger.com" class="connect-link">c@codycardbadger.com</a>
+          <p class="description">Drop me a line anytime!</p>
+        </div>
       </div>
     </div>
 
     <!-- GitHub -->
     <div class="connect-item">
-      <h3>💻 GitHub</h3>
-      <a href="https://github.com/codybadger" target="_blank" class="connect-link">@codybadger</a>
-      <div class="github-widget">
-        <iframe 
-          src="https://github.com/codybadger" 
-          width="100%" 
-          height="200" 
-          frameborder="0" 
-          style="border-radius: 8px;">
-        </iframe>
+      <div class="connect-content">
+        <div class="icon-section">
+          <svg class="connect-icon" viewBox="0 0 24 24" fill="currentColor">
+            <path d="M12 0c-6.626 0-12 5.373-12 12 0 5.302 3.438 9.8 8.207 11.387.599.111.793-.261.793-.577v-2.234c-3.338.726-4.033-1.416-4.033-1.416-.546-1.387-1.333-1.756-1.333-1.756-1.089-.745.083-.729.083-.729 1.205.084 1.839 1.237 1.839 1.237 1.07 1.834 2.807 1.304 3.492.997.107-.775.418-1.305.762-1.604-2.665-.305-5.467-1.334-5.467-5.931 0-1.311.469-2.381 1.236-3.221-.124-.303-.535-1.524.117-3.176 0 0 1.008-.322 3.301 1.23.957-.266 1.983-.399 3.003-.404 1.02.005 2.047.138 3.006.404 2.291-1.552 3.297-1.23 3.297-1.23.653 1.653.242 2.874.118 3.176.77.84 1.235 1.911 1.235 3.221 0 4.609-2.807 5.624-5.479 5.921.43.372.823 1.102.823 2.222v3.293c0 .319.192.694.801.576 4.765-1.589 8.199-6.086 8.199-11.386 0-6.627-5.373-12-12-12z"/>
+          </svg>
+        </div>
+        <div class="text-section">
+          <h3>GitHub</h3>
+          <a href="https://github.com/codybadger" target="_blank" class="connect-link">@codybadger</a>
+          <p class="description">Check out my code and projects</p>
+        </div>
       </div>
     </div>
 
     <!-- LinkedIn -->
     <div class="connect-item">
-      <h3>🔗 LinkedIn</h3>
-      <a href="https://www.linkedin.com/in/codybadger/" target="_blank" class="connect-link">linkedin.com/in/codybadger/</a>
-      <div class="linkedin-widget">
-        <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-        <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="codybadger" data-version="v1">
-          <a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/codybadger?trk=profile-badge">Cody Badger</a>
+      <div class="connect-content">
+        <div class="icon-section">
+          <svg class="connect-icon" viewBox="0 0 24 24" fill="currentColor">
+            <path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433c-1.144 0-2.063-.926-2.063-2.065 0-1.138.92-2.063 2.063-2.063 1.14 0 2.064.925 2.064 2.063 0 1.139-.925 2.065-2.064 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"/>
+          </svg>
+        </div>
+        <div class="text-section">
+          <h3>LinkedIn</h3>
+          <a href="https://www.linkedin.com/in/codybadger/" target="_blank" class="connect-link">linkedin.com/in/codybadger</a>
+          <p class="description">Professional network & experience</p>
         </div>
       </div>
     </div>
 
     <!-- Instagram -->
     <div class="connect-item">
-      <h3>📸 Instagram</h3>
-      <a href="https://www.instagram.com/badgasaurus/" target="_blank" class="connect-link">@badgasaurus</a>
-      <div class="instagram-widget">
-        <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/badgasaurus/" data-instgrm-version="14">
-          <div style="padding: 16px;">
-            <a href="https://www.instagram.com/badgasaurus/" target="_blank" style="color:#3897f0;">
-              View @badgasaurus on Instagram
-            </a>
-          </div>
-        </blockquote>
-        <script async src="//www.instagram.com/embed.js"></script>
+      <div class="connect-content">
+        <div class="icon-section">
+          <svg class="connect-icon" viewBox="0 0 24 24" fill="currentColor">
+            <path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z"/>
+          </svg>
+        </div>
+        <div class="text-section">
+          <h3>Instagram</h3>
+          <a href="https://www.instagram.com/badgasaurus/" target="_blank" class="connect-link">@badgasaurus</a>
+          <p class="description">Life adventures & behind the scenes</p>
+        </div>
       </div>
     </div>
 
     <!-- Facebook -->
     <div class="connect-item">
-      <h3>👥 Facebook</h3>
-      <a href="https://www.facebook.com/codybadger" target="_blank" class="connect-link">facebook.com/codybadger</a>
-      <div class="facebook-widget">
-        <div class="fb-page" 
-          data-href="https://www.facebook.com/codybadger" 
-          data-tabs="timeline" 
-          data-width="350" 
-          data-height="200" 
-          data-small-header="true" 
-          data-adapt-container-width="true" 
-          data-hide-cover="false" 
-          data-show-facepile="false">
+      <div class="connect-content">
+        <div class="icon-section">
+          <svg class="connect-icon" viewBox="0 0 24 24" fill="currentColor">
+            <path d="M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z"/>
+          </svg>
+        </div>
+        <div class="text-section">
+          <h3>Facebook</h3>
+          <a href="https://www.facebook.com/codybadger" target="_blank" class="connect-link">facebook.com/codybadger</a>
+          <p class="description">Personal updates & connections</p>
         </div>
       </div>
     </div>
 
     <!-- Personal Website -->
-    <div class="connect-item">
-      <h3>🌐 Personal Website</h3>
-      <a href="https://codycardbadger.com" target="_blank" class="connect-link">codycardbadger.com</a>
-      <p class="description">You're already here! But this is my main personal website.</p>
+    <div class="connect-item highlight">
+      <div class="connect-content">
+        <div class="icon-section">
+          <svg class="connect-icon" viewBox="0 0 24 24" fill="currentColor">
+            <path d="M12 0C5.374 0 0 5.373 0 12s5.374 12 12 12 12-5.373 12-12S18.626 0 12 0zm5.568 13.8H12V18c0 .553-.447 1-1 1s-1-.447-1-1v-4.2H5.432c-.553 0-1-.448-1-1s.447-1 1-1H10V7.6c0-.553.447-1 1-1s1 .447 1 1v4.2h5.568c.553 0 1 .448 1 1s-.447 1-1 1z"/>
+          </svg>
+        </div>
+        <div class="text-section">
+          <h3>Personal Website</h3>
+          <a href="https://codycardbadger.com" target="_blank" class="connect-link">codycardbadger.com</a>
+          <p class="description">You're already here! This is my main site.</p>
+        </div>
+      </div>
     </div>
   </div>
-
-  <!-- Social Media Loading Scripts -->
-  <div id="fb-root"></div>
-  <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v18.0"></script>
 
   <style>
     .connect-grid {
       display: grid;
       grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-      gap: 2rem;
+      gap: 1.5rem;
       margin-top: 2rem;
     }
 
     .connect-item {
-      background: #f8f9fa;
+      background: white;
       border-radius: 12px;
       padding: 1.5rem;
-      border: 1px solid #e9ecef;
-      transition: transform 0.2s ease, box-shadow 0.2s ease;
+      border: 2px solid #f1f3f4;
+      transition: all 0.3s ease;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.05);
     }
 
     .connect-item:hover {
-      transform: translateY(-2px);
-      box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+      transform: translateY(-4px);
+      box-shadow: 0 8px 25px rgba(0,0,0,0.15);
+      border-color: #3498db;
     }
 
-    .connect-item h3 {
-      margin-top: 0;
-      margin-bottom: 1rem;
+    .connect-item.highlight {
+      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+      color: white;
+      border-color: transparent;
+    }
+
+    .connect-item.highlight .connect-link {
+      color: white;
+    }
+
+    .connect-item.highlight .description {
+      color: rgba(255,255,255,0.8);
+    }
+
+    .connect-content {
+      display: flex;
+      align-items: flex-start;
+      gap: 1rem;
+    }
+
+    .icon-section {
+      flex-shrink: 0;
+    }
+
+    .connect-icon {
+      width: 48px;
+      height: 48px;
+      color: #3498db;
+      transition: transform 0.2s ease;
+    }
+
+    .connect-item.highlight .connect-icon {
+      color: white;
+    }
+
+    .connect-item:hover .connect-icon {
+      transform: scale(1.1);
+    }
+
+    .text-section {
+      flex: 1;
+    }
+
+    .text-section h3 {
+      margin: 0 0 0.5rem 0;
       color: #2c3e50;
-      font-size: 1.2rem;
+      font-size: 1.25rem;
+      font-weight: 600;
+    }
+
+    .connect-item.highlight h3 {
+      color: white;
     }
 
     .connect-link {
@@ -122,8 +184,9 @@ import Layout from '../layouts/Layout.astro';
       color: #3498db;
       text-decoration: none;
       font-weight: 500;
-      margin-bottom: 1rem;
-      transition: color 0.2s ease;
+      margin-bottom: 0.5rem;
+      transition: all 0.2s ease;
+      font-size: 0.95rem;
     }
 
     .connect-link:hover {
@@ -131,32 +194,11 @@ import Layout from '../layouts/Layout.astro';
       text-decoration: underline;
     }
 
-    .email-section {
-      display: flex;
-      align-items: center;
-      gap: 1rem;
-    }
-
-    .email-icon {
-      width: 40px;
-      height: 40px;
-      border-radius: 8px;
-      object-fit: cover;
-    }
-
-    .github-widget,
-    .linkedin-widget,
-    .instagram-widget,
-    .facebook-widget {
-      margin-top: 1rem;
-      border-radius: 8px;
-      overflow: hidden;
-    }
-
     .description {
       color: #6c757d;
-      font-style: italic;
-      margin-top: 0.5rem;
+      font-size: 0.9rem;
+      margin: 0;
+      line-height: 1.4;
     }
 
     /* Responsive adjustments */
@@ -167,7 +209,16 @@ import Layout from '../layouts/Layout.astro';
       }
       
       .connect-item {
-        padding: 1rem;
+        padding: 1.25rem;
+      }
+
+      .connect-content {
+        gap: 0.75rem;
+      }
+
+      .connect-icon {
+        width: 40px;
+        height: 40px;
       }
     }
   </style>
